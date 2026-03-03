@@ -37,10 +37,9 @@ export default function Approach() {
             >
               <div className="rounded-2xl shadow-lg w-full h-[450px] bg-white flex items-center justify-center p-8 overflow-hidden">
                 <img
-                  src="https://advaitsociety.com/img/header/logomain.png"
+                  src="/logomain.png"
                   alt="Dr. Lajpatrai Mehra - Guru of Neurotherapy"
                   className="max-w-full max-h-full object-contain"
-                  referrerPolicy="no-referrer"
                 />
               </div>
             </motion.div>

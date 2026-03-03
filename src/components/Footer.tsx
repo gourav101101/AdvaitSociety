@@ -19,10 +19,9 @@ export default function Footer() {
           <div className="lg:col-span-5 space-y-6">
             <Link href="/" className="inline-flex items-center gap-3 group">
               <img 
-                src="https://advaitsociety.com/img/header/logomain.png" 
+                src="/logomain.png" 
                 alt="Dr. Lajpatrai Mehra" 
                 className="w-12 h-12 rounded-full object-cover bg-white ring-2 ring-white/10 group-hover:ring-blue-500/50 transition-all"
-                referrerPolicy="no-referrer"
               />
               <span className="font-serif text-2xl font-medium tracking-wide">
                 Advait Society

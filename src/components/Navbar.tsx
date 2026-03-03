@@ -43,10 +43,9 @@ export default function Navbar() {
         <div className="flex justify-between items-center">
           <Link href="/" className="flex items-center gap-3">
             <img 
-              src="https://advaitsociety.com/img/header/logomain.png" 
+              src="/logomain.png" 
               alt="Dr. Lajpatrai Mehra" 
               className="w-11 h-11 rounded-full object-cover border-2 border-white/30 bg-white"
-              referrerPolicy="no-referrer"
             />
             <span
               className="font-serif text-xl font-medium tracking-wide text-forest"

@@ -1,6 +1,10 @@
 {
-  "/page": "app/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
   "/approach/page": "app/approach/page.js",
+  "/success-stories/page": "app/success-stories/page.js",
   "/contact/page": "app/contact/page.js",
-  "/therapies/page": "app/therapies/page.js"
+  "/therapies/page": "app/therapies/page.js",
+  "/page": "app/page.js"
 }
